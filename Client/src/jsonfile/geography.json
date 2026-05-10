@@ -1,0 +1,28 @@
+[
+    {
+        "name":"India",
+        "States":[
+            {
+                "state":"Gujarat",
+                "city":["Ahmedabad","Surat","Vadodara"]
+            },
+            {
+                "state":"Rajasthan",
+                "city":["Jaipur","Udaipur","Jodhpur"]
+            }
+        ]
+    },
+    {
+        "name":"USA",
+        "States":[
+            {
+                "state":"New York",
+                "city":["New York","Buffalo"]
+            },
+            {
+                "state":"Los Angeles",
+                "city":["Los Angeles","menhattan"]
+            }
+        ]
+    }
+]
